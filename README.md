@@ -2,6 +2,7 @@
 
 # Dependencias
 - Python 3, sino lo tiene instalado puede descargarlo aqui: https://www.python.org/downloads/
+- Git: https://git-scm.com/downloads
 
 ## Instalación de liberías
 Para instalar todas la liberías necesarias correr el comando:
